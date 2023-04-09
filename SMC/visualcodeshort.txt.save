@@ -1,0 +1,48 @@
+
+1. Xóa đoạn văn bản : Command () + shift + K
+
+Đoạn văn bản 1
+Xóa đoạn văn bản này
+Đoạn văn bản 2
+
+2. Chèn dòng:
+ + Bên trên: Command + return 
+ + Bên dưới: Command + shift + return
+Chèn đoạn văn lên trên
+Chèn dòng dưới 
+
+3. Quét toàn bộ văn bản tự vị tró con trỏ chuột: commamd + shift + lên
+
+4. Thao tác con trỏ chuột nhiều dòng: Command + option + shift + lên/xuống/trái/phải
+
+Chúng ta của hiện tại 1
+Chúng ta của qua khứ
+Chúng ta của tương lai
+
+5. Copy nội dung hiện tại:
+    + Xuống dưới: option + shift + xuống 
+    + Lên trên: option + shift + xuống 
+
+6. Chọn đoạn văn bản giống văn bản bôi đẹn hiện tại
+    + Command + D
+    + Command + shift + L (không phân biệt hoa thường)
+    + Command + F2 ( phân biệt hoa thườnd)
+
+
+7. Đẩy hàng 
+    + Sang trái: command + ]
+    + Sang phải: command + [
+Tab dòng sang phải
+Tab dòng sang trái
+Tab dòn`g sang trái
+
+8. Đưa con trỏ chuột đến đầu dong cuối dong: Command + trái/ph`ải/lên/xuống
+
+
+9. Bôi đen đoạn văn bản : Command + shift + trái/phải
+
+10.
+    + Phóng to/ thu nhỏ: command + +/-
+    + Lặp lai thảo tác tiếp theo: command + Y
+    + Đóng tab hiện tại; command + W
+    + Gợi ý code ngon ngữ: Command + [cách]
